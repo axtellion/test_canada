@@ -2435,10 +2435,9 @@ var ps_ajax = {"ajax_url":"https:\/\/www.coinsmart.com\/wp-admin\/admin-ajax.php
 				</div>
 				<div class="elementor-element elementor-element-dfe390c elementor-widget__width-auto elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image" data-id="dfe390c" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-								<div class="elementor-image">
-													<a href="https://apps.apple.com/ca/app/coinsmart/id1480226085" target="_blank" rel="nofollow">
-							<img width="320" height="95" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%2095'%3E%3C/svg%3E" class="attachment-full size-full" alt="Download on the App Store Badge" data-lazy-srcset="https://csmart.wpenginepowered.com/wp-content/uploads/2021/09/Download_on_the_App_Store_Badge.webp 320w, https://csmart.wpenginepowered.com/wp-content/uploads/2021/09/Download_on_the_App_Store_Badge-300x89.webp 300w" data-lazy-sizes="(max-width: 320px) 100vw, 320px" data-lazy-src="https://csmart.wpenginepowered.com/wp-content/uploads/2021/09/Download_on_the_App_Store_Badge.webp" /><noscript><img width="320" height="95" src="https://csmart.wpenginepowered.com/wp-content/uploads/2021/09/Download_on_the_App_Store_Badge.webp" class="attachment-full size-full" alt="Download on the App Store Badge" srcset="https://csmart.wpenginepowered.com/wp-content/uploads/2021/09/Download_on_the_App_Store_Badge.webp 320w, https://csmart.wpenginepowered.com/wp-content/uploads/2021/09/Download_on_the_App_Store_Badge-300x89.webp 300w" sizes="(max-width: 320px) 100vw, 320px" /></noscript>								</a>
-														</div>
+								<span style="font-family: 'Aeonik', sans-serif; font-size: 17px; font-weight: bold; fill: var(--e-global-color-b055ae0); color: var(--e-global-color-b055ae0); background-color: var(--e-global-color-0aa8be3); border-radius: 10px;">
+  <button type="submit" style="background-color: var(--e-global-color-0aa8be3); color: var(--e-global-color-b055ae0); border: none; border-radius: 10px; padding: 20px 40px; cursor: pointer;">Get Started</button>
+</span>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-4b9a36e elementor-widget__width-auto elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image" data-id="4b9a36e" data-element_type="widget" data-widget_type="image.default">
