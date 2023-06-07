@@ -170,7 +170,7 @@ a2a_config.templates.twitter = {
 a2a_config.templates.whatsapp = {
     text: "Check this out: ${title} ${link}"
 };
-a2a_config.linkurl = 'https://crypto.coinsmart.com/register/';
+a2a_config.linkurl = '/';
 </script>
 <script type="rocketlazyloadscript"   async src='https://static.addtoany.com/menu/page.js' id='addtoany-core-js'></script>
 <script type="rocketlazyloadscript"   async src='https://csmart.wpenginepowered.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1' id='addtoany-jquery-js'></script>
@@ -344,7 +344,7 @@ var ps_ajax = {"ajax_url":"https:\/\/www.coinsmart.com\/wp-admin\/admin-ajax.php
 						<div class="elementor-element elementor-element-44c1ce5a elementor-align-center elementor-widget elementor-widget-button" data-id="44c1ce5a" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://crypto.coinsmart.com/register" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a href="" class="elementor-button-link elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Create an Account</span>
 		</span>
@@ -1463,7 +1463,7 @@ Mining Profitability.</h2>		</div>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="https://crypto.coinsmart.com/register/">
+											<a href="/">
 
 											<span class="elementor-icon-list-text">Create An Account</span>
 											</a>
