@@ -456,10 +456,7 @@ twq('init','o79mv');
 twq('track','PageView');
 </script>
 <!-- End Twitter universal website tag code -->
-<!-- COOKIE BAR SCRIPT : This handles all tracking scripts -->
-<div id="cookie-app"></div>
-<!--script type="text/javascript" src="https://csmart.wpenginepowered.com/wp-content/themes/hello-presshero/cookie-bar/index.js"></script -->
-<script type="text/javascript" src="https://csmart.wpenginepowered.com/wp-content/themes/coin-wp/cookie-bar/index.js"></script>
+
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5BS93QC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->

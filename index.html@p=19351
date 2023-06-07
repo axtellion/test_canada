@@ -265,10 +265,7 @@ twq('init','o79mv');
 twq('track','PageView');
 </script>
 <!-- End Twitter universal website tag code -->
-<!-- COOKIE BAR SCRIPT : This handles all tracking scripts -->
-<div id="cookie-app"></div>
-<!--script type="text/javascript" src="https://csmart.wpenginepowered.com/wp-content/themes/hello-presshero/cookie-bar/index.js"></script -->
-<script type="text/javascript" src="https://csmart.wpenginepowered.com/wp-content/themes/coin-wp/cookie-bar/index.js"></script>
+
 
 <meta name="facebook-domain-verification" content="5iy97bwo4klvs9lvv24e173pld7kx5" />
 
